@@ -108,7 +108,7 @@ h1{
 }
 
 .bgmain {
-  background-image: url("img/bgdong.png");
+  background-image: url("/img/bgdong.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
