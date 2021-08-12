@@ -864,7 +864,7 @@ h1{
   font-size: 20px;
 }
 #circle-timeline{
-  background: url("/img/garis-timeline.png");
+  background: url("img/garis-timeline.png");
   background-size: 80vw;
   background-repeat: no-repeat;
   background-position: center;
