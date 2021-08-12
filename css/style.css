@@ -1059,21 +1059,21 @@ li.timeline-item ul{
 }
 
 .img-mithsal {
-  background: url("/img/Hanif\ Mitsal\ Mahatta_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Hanif\ Mitsal\ Mahatta_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
 }
 
 .img-raynaldi {
-  background: url("/img/Raynaldi\ Anggiat\ Samuel\ Siahaan_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Raynaldi\ Anggiat\ Samuel\ Siahaan_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
 }
 
 .img-syifa {
-  background: url("/img/Syifa\ Alina\ Amri_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Syifa\ Alina\ Amri_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
