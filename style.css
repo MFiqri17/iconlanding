@@ -864,7 +864,7 @@ h1{
   font-size: 20px;
 }
 #circle-timeline{
-  background: url("/img/garis-timeline.png");
+  background: url("img/garis-timeline.png");
   background-size: 80vw;
   background-repeat: no-repeat;
   background-position: center;
@@ -924,7 +924,7 @@ li.timeline-item ul{
   color: white;
   font-family: "Hind Regular";
   font-size: 18px;
-  list-style-image: url("/img/bullet-point.png");
+  list-style-image: url("img/bullet-point.png");
 }
 
 .btn-sm {
@@ -1059,21 +1059,21 @@ li.timeline-item ul{
 }
 
 .img-mithsal {
-  background: url("/img/Hanif\ Mitsal\ Mahatta_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Hanif\ Mitsal\ Mahatta_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
 }
 
 .img-raynaldi {
-  background: url("/img/Raynaldi\ Anggiat\ Samuel\ Siahaan_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Raynaldi\ Anggiat\ Samuel\ Siahaan_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
 }
 
 .img-syifa {
-  background: url("/img/Syifa\ Alina\ Amri_Peserta\ ICON\ 2020_Foto\ \(1\).png");
+  background: url("img/Syifa\ Alina\ Amri_Peserta\ ICON\ 2020_Foto\ \(1\).png");
   background-size: cover;
   border-radius: 2rem;
   height: 100%;
