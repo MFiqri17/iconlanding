@@ -405,7 +405,7 @@ h1{
  #home {
   min-height: 80vh;
   width: 100%;
-  background: url("img/Jumbotron.png");
+  background: url("../img/Jumbotron.png");
   background-color: rgba(6, 51, 90, 1);
   background-size: cover;
   background-repeat: no-repeat;
