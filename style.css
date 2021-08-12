@@ -802,7 +802,7 @@ h1{
   }
 
 
-  .swiper-wrapper .container {
+  #events .sweper .container {
     margin-left: 5%;
   }
 
@@ -826,7 +826,7 @@ h1{
 }
 
 @media (max-width : 569px) { 
-  .swiper-wrapper .container {
+  #events .sweper .container {
     margin-left: 0%;
   }
 }
